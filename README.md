@@ -1,5 +1,7 @@
 # Activitat3_5
 INMOBILIARIA UML
+
+
 Volem dissenyar una base de dades per a una empresa immobiliària amb l’objectiu de gestionar la informació relativa a la seva cartera de pisos en venda.
 Aquesta empresa, que treballa únicament amb pisos d'Inca, els classifica per zones. Les zones tenen un nom de zona que els identifica. De la mateixa manera, cada pis té assignat un codi únic. A més, de cada pis també es vol conèixer l’adreça, la superfície, el nombre d’habitacions i el preu.
 Els clients sovint estan interessats en pisos d’una zona determinada. Per això interessa saber quines zones son limítrofes. Així, si no es disposa de pisos en una zona es podran oferir els pisos de les zones limítrofes amb la primera.
